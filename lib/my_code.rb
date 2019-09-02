@@ -56,10 +56,10 @@ final_array
    while counter < array.size do
    return false if array[counter]==FALSE
    counter+=1
-   
  end
  true
  end
-   
+ 
+   def reduce_to_any_true (array)
  
  
