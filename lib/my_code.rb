@@ -56,9 +56,9 @@ final_array
    while counter < array.size do
    return false if array[counter] is FALSE
    counter+=1
-   return true if array[counter]
+   
  end
- total
+ TRUE
  end
    
  
