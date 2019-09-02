@@ -54,7 +54,7 @@ final_array
  def reduce_to_all_true (array)
    counter = 0
    while counter < array.size do
-   return
+   return false if array[counter] is FALSE
    counter+=1
  end
  total
