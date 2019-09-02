@@ -28,6 +28,7 @@ final_array
      final_array.push (array[counter]*2)
    counter +=1
  end
+ final_array
  end
  
  def map_to_square (array)
