@@ -6,6 +6,8 @@ def map_to_negativize (array)
   counter = 0
   while counter < array.size do
     
+    
+end
 
  end
  
