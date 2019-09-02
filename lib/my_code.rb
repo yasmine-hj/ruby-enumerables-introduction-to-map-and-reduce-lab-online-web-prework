@@ -45,7 +45,7 @@ final_array
    total = starting_point
    counter = 0 
    while counter < array.size do 
-     
+     total += array[counter]
    
    counter +=1
  end
