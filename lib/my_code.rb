@@ -58,7 +58,7 @@ final_array
    counter+=1
    
  end
- TRUE
+ true
  end
    
  
