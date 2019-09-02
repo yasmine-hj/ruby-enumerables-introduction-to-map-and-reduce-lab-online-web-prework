@@ -2,6 +2,6 @@
 
   
 def map_to_negativize (array)
-array = []
+final_array = []
  end
  
