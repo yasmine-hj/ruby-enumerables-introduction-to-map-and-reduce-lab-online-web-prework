@@ -40,3 +40,7 @@ final_array
  end
  final_array
  end
+ 
+ def reduce_to_total (array, starting_point)
+ 
+ 
