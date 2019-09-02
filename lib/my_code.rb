@@ -9,6 +9,6 @@ def map_to_negativize (array)
     final_array = array*-1
     counter <= 1
 end
-
+final_array
  end
  
