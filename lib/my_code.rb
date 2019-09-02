@@ -52,7 +52,14 @@ final_array
  end
  
  def reduce_to_total (array)
-   
+   total = 0
+   counter = 0
+   while counter < array.size do
+   total += (array[counter]=TRUE)
+   counter+=1
+ end
+ total
+ end
    
  
  
