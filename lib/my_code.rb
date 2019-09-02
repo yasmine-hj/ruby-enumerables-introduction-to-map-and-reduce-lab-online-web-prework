@@ -64,6 +64,7 @@ final_array
      counter = 0
      while counter < array.size do
        return true if array[counter]==TRUE
+       counter+=1
      end
      true
    end
