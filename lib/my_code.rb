@@ -66,7 +66,7 @@ final_array
        return true if array[counter]==TRUE
        counter+=1
      end
-     true
+     false
    end
  
  
